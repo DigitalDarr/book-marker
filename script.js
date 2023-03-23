@@ -63,9 +63,9 @@ function buildBookmarks() {
     link.setAttribute('target', '_blank');
     link.textContent = name;
     // Append to bookmarks container
-    linkInfo.append(favicon, link);
-    item.append(closeIcon, linkInfo);
-    bookmarksContainer.appendChild(item);
+    // linkInfo.append(favicon, link);
+    // item.append(closeIcon, linkInfo);
+    // bookmarksContainer.appendChild(item);
   });
 }
 
