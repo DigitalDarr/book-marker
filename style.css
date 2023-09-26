@@ -11,7 +11,7 @@ html {
 
 body {
   background: var(--primary-color);
-  background-image: url("bg.6.avif.jpeg");
+  background-image: url("bg.6.avif");
   background-size: cover;
   font-family: Karla, sans-serif;
 }
